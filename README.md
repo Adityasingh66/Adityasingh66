@@ -1,21 +1,16 @@
 ## Hi there 👋 
-I'm **Shanu Mishra**, an **App Developer** 📱 from **India** with a passion for technology, innovation, and creating solutions that make an impact.
+I'm **Aditya Kumar Singh**, an **Full Stack Developer** 📱 from **India** with a passion for technology, innovation, and creating solutions that make an impact.
 
-![Shanu's GIF](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
+![Aditya's GIF](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
 
 ---
 
 ### 🚀 **About Me**
 
-I'm a **Fullstack Engineer** with a diverse skill set and a passion for mobile and web development. I believe in building **user-centric applications** that not only look good but perform seamlessly. I work with a variety of technologies across different domains:
+I'm a **Fullstack Engineer** with a diverse skill set and a passion for  web development. I believe in building **Responsive Websites** that not only look good but perform seamlessly. I work with a variety of technologies across different domains:
 
-- **Mobile Application Development** using **Flutter**.
 - **Web Development** with **HTML/CSS**, **JavaScript**, and **React**.
-- **Backend Development** with **Firebase**, **SQL**, **MySQL**, **Spring Boot**, and **Java**.
-- **Data Analytics** with **Python** and **R**.
-- **Blockchain Development** with **Solidity**.
-- **Robotic Process Automation (RPA)** using **Blue Prism**, **Automation Anywhere**.
-- **Digital Marketing** - Hands-on experience in SEO, SEM, and more.
+- **Backend Development** with **Java**, **Spring Boot**,  **MySQL**.
 
 ### ⚡ **Technologies & Tools** 
 
