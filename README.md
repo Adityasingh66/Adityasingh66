@@ -24,17 +24,6 @@ I'm a **Fullstack Engineer** with a diverse skill set and a passion for  web dev
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>  
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png"></code>  
-
-- **Data Analytics & Blockchain:**  
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>  
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>  
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
-
-- **Dev Tools:**  
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-
 ---
 
 ### 📫 **How to reach me:**
@@ -42,7 +31,7 @@ I'm a **Fullstack Engineer** with a diverse skill set and a passion for  web dev
 Feel free to connect with me through the following platforms:
 
 - **Twitter:** [@ShanuMishra1515](https://twitter.com/ShanuMishra1515)
-- **LinkedIn:** [Shanu Mishra](https://www.linkedin.com/in/shanu-mishra/)
+- **LinkedIn:** [Aditya Kumar Singh](https://www.linkedin.com/in/shanu-mishra/)
 - **Instagram:** [@mishra.shanu15](https://www.instagram.com/mishra.shanu15/)
 - **Medium:** [@mishra.shanu15](https://medium.com/@mishra.shanu15/)
 - **Gmail:** [mishra.shanu15@gmail.com](mailto:mishra.shanu15@gmail.com)
