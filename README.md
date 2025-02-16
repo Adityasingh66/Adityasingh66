@@ -117,6 +117,30 @@ _Example of the **Blog Application**_ 📝
 
 ---
 
+## 🎨 **Animated Coding Demo GIFs** (Code in Action) 🎬
+
+- **TypeScript Code** – Animation showing code execution in a project:  
+  ![Animated GIF](https://media.giphy.com/media/Xo1MbTdxiI2lmBItH9/giphy.gif)
+
+- **React & JavaScript Interaction** – Animation showing state management and dynamic rendering in React:  
+  ![Animated React](https://media.giphy.com/media/26gss70f5lQsoYFAw/giphy.gif)
+
+---
+
+## 📈 **Progress Bar (Learning Journey)** 🏃‍♂️
+
+### Technologies I'm Learning:
+- **JavaScript** - 70% 🌟  
+  ![JavaScript Progress](https://progress-bar.dev/70/?title=JavaScript)
+
+- **React** - 60% 🌱  
+  ![React Progress](https://progress-bar.dev/60/?title=React)
+
+- **Spring Boot** - 40% 🚀  
+  ![Spring Boot Progress](https://progress-bar.dev/40/?title=Spring%20Boot)
+
+---
+
 ## 📝 **License**
 
 This project is licensed under the **MIT License** 📝 - see the [LICENSE.md](LICENSE.md) file for details.
