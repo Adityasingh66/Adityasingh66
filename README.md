@@ -1,154 +1,131 @@
-# 👨‍💻 **Fullstack Engineer** | HTML, CSS, JavaScript, React, Java, SpringBoot, MySQL
+## Hi there 👋 
+I'm **Shanu Mishra**, an **App Developer** 📱 from **India** with a passion for technology, innovation, and creating solutions that make an impact.
 
-Welcome to my GitHub profile! I’m a **Fullstack Engineer** passionate about building modern, scalable, and maintainable web applications. With a strong foundation in both **frontend** and **backend** technologies, I strive to create seamless user experiences while ensuring robust, efficient backend systems.
-
----
-
-## 🌟 **Technologies & Tools**
-
-### **Frontend Development** 🚀
-- **HTML5**: Building structured, semantic, and accessible web pages.
-- **CSS3**: Crafting visually appealing and responsive layouts (Flexbox, Grid, SCSS).
-- **JavaScript**: Creating interactive and dynamic web features.
-- **React.js**: Developing component-based, performant, and scalable applications.
-
-### **Backend Development** 🔧
-- **Java**: Writing clean, maintainable, and scalable code.
-- **Spring Boot**: Building production-ready applications with ease.
-- **MySQL**: Designing, managing, and querying relational databases.
-
-### **Tools & Other Skills** 🛠️
-- **Git**: Version control with Git and GitHub.
-- **Node.js**: Backend JavaScript runtime environment.
-- **Docker**: Containerization for application deployment.
-- **JUnit**: Writing unit tests to ensure high-quality code.
-- **Postman**: API testing and documentation.
+![Shanu's GIF](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
 
 ---
 
-## 🛠️ **Projects**
+### 🚀 **About Me**
 
-Here are a few of my personal and professional projects:
+I'm a **Fullstack Engineer** with a diverse skill set and a passion for mobile and web development. I believe in building **user-centric applications** that not only look good but perform seamlessly. I work with a variety of technologies across different domains:
 
-### 1. **[Project Name 1](link-to-project)**
-   - **Description**: A brief overview of the project and tech stack.
-   - **Tech Stack**: React, Java, Spring Boot, MySQL
-   - ![Project 1](link-to-image)  
-   - **Link**: [GitHub Repository](link-to-repo)
+- **Mobile Application Development** using **Flutter**.
+- **Web Development** with **HTML/CSS**, **JavaScript**, and **React**.
+- **Backend Development** with **Firebase**, **SQL**, **MySQL**, **Spring Boot**, and **Java**.
+- **Data Analytics** with **Python** and **R**.
+- **Blockchain Development** with **Solidity**.
+- **Robotic Process Automation (RPA)** using **Blue Prism**, **Automation Anywhere**.
+- **Digital Marketing** - Hands-on experience in SEO, SEM, and more.
 
-### 2. **[Project Name 2](link-to-project)**
-   - **Description**: A brief overview of the project and tech stack.
-   - **Tech Stack**: React, Java, Spring Boot, MySQL
-   - ![Project 2](link-to-image)  
-   - **Link**: [GitHub Repository](link-to-repo)
+### ⚡ **Technologies & Tools** 
 
-### 3. **[Project Name 3](link-to-project)**
-   - **Description**: A brief overview of the project and tech stack.
-   - **Tech Stack**: React, Java, Spring Boot, MySQL
-   - ![Project 3](link-to-image)  
-   - **Link**: [GitHub Repository](link-to-repo)
+- **Frontend:**  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>  
 
----
+- **Backend:**  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png"></code>  
 
-## 🎯 **Currently Learning & Exploring**
+- **Data Analytics & Blockchain:**  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
 
-- **GraphQL**: For more efficient and flexible data querying.
-- **Kubernetes**: Container orchestration for scalability and resilience.
-- **TypeScript**: Enhancing my JavaScript with better type safety.
-- **AWS & Cloud Computing**: Exploring cloud services to improve deployments.
-
----
-
-## 📬 **Connect With Me**
-
-- **LinkedIn**: [@YourName](https://linkedin.com/in/your-profile)
-- **Twitter**: [@yourtwitter](https://twitter.com/your-twitter)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- **Email**: your-email@example.com
+- **Dev Tools:**  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 ---
 
-## 📊 **GitHub Stats** 
+### 📫 **How to reach me:**
+
+Feel free to connect with me through the following platforms:
+
+- **Twitter:** [@ShanuMishra1515](https://twitter.com/ShanuMishra1515)
+- **LinkedIn:** [Shanu Mishra](https://www.linkedin.com/in/shanu-mishra/)
+- **Instagram:** [@mishra.shanu15](https://www.instagram.com/mishra.shanu15/)
+- **Medium:** [@mishra.shanu15](https://medium.com/@mishra.shanu15/)
+- **Gmail:** [mishra.shanu15@gmail.com](mailto:mishra.shanu15@gmail.com)
+
+![GIF1](https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif)
+![GIF2](https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif)
+
+---
+
+### 🔧 **Projects**
+
+#### 1. **[Project Name 1](#)**  
+   A description of your project.  
+   **Tech Stack:** React, Java, Spring Boot, MySQL  
+   ![Project 1](https://via.placeholder.com/150)
+
+#### 2. **[Project Name 2](#)**  
+   A description of your project.  
+   **Tech Stack:** Flutter, Firebase, MySQL  
+   ![Project 2](https://via.placeholder.com/150)
+
+#### 3. **[Project Name 3](#)**  
+   A description of your project.  
+   **Tech Stack:** Python, R, Solidity  
+   ![Project 3](https://via.placeholder.com/150)
+
+---
+
+### 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical&hide=prs)
 
 ---
 
-## 💡 **Fun Facts**
+### 🌱 **Currently Learning**
 
-- I’m an avid problem-solver and enjoy participating in **coding challenges**.
-- I contribute to **open-source** projects whenever I get the chance.
-- I am passionate about **UI/UX design** and improving the user experience.
-
----
-
-## 🔥 **Recent GitHub Activity** 
-
-<!--START_SECTION:activity-->
-<!-- ADD ACTIVITY LOG HERE -->
-<!--END_SECTION:activity-->
+- **GraphQL** for efficient and flexible data querying.
+- **AWS** for cloud computing and hosting applications.
+- **Kubernetes** for container orchestration and scaling.
 
 ---
 
-## 📌 **Popular Repos**
+### 💡 **Fun Facts**
 
-Here are a few repositories I’m proud of:
-
-- [**Repo Name 1**](https://github.com/yourusername/repo1)
-- [**Repo Name 2**](https://github.com/yourusername/repo2)
-- [**Repo Name 3**](https://github.com/yourusername/repo3)
+- I love solving algorithm challenges and contributing to **open-source**.
+- I have a keen interest in **UI/UX design** and always strive to improve the user experience.
+- When I’m not coding, I enjoy reading about the latest advancements in **AI** and **Blockchain**.
 
 ---
 
-### 📝 **Pinned Repos**
+### ⚡ **Quote I Live By**
 
-- [**Project Name 1**](https://github.com/yourusername/project1)
-- [**Project Name 2**](https://github.com/yourusername/project2)
-- [**Project Name 3**](https://github.com/yourusername/project3)
+> _"The best way to predict the future is to invent it."_ — Alan Kay
 
 ---
 
-## 📈 **My GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## 💬 **Let's Connect!**
+Feel free to check out my repositories, open issues, or contribute to my projects. I am always open to collaborating, learning, and discussing tech.
+
+[![Twitter Badge](https://img.shields.io/badge/-@ShanuMishra1515-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShanuMishra1515)](https://twitter.com/ShanuMishra1515)  
+[![Linkedin Badge](https://img.shields.io/badge/-ShanuMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanu-mishra/)](https://www.linkedin.com/in/shanu-mishra/)  
+[![Medium Badge](https://img.shields.io/badge/-@mishra.shanu15-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mishra.shanu15/)](https://medium.com/@mishra.shanu15/)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mishra.shanu15@gmail.com)](mailto:mishra.shanu15@gmail.com)  
 
 ---
 
-> _“The best way to predict the future is to invent it.”_ — Alan Kay
+### 📅 **Timeline of My Journey**
+
+1. **2019:** Started my journey with **HTML**, **CSS**, and **JavaScript**.
+2. **2020:** Learned **React** and built my first **React.js** app.
+3. **2021:** Dived into **Flutter** for mobile app development and **Firebase** for backend.
+4. **2022:** Explored **Blockchain** with **Solidity** and **Ethereum**.
+5. **2023:** Started working with **Spring Boot** and **MySQL** for backend development.
 
 ---
 
-## 💻 **Tech Stack Icons**
-![](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Java-%23FF8C00.svg?style=flat&logo=java&logoColor=white)
-![](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-
----
-
-## ⚙️ **Extra Details**
-
-- **Status**: Currently open to freelance & collaboration opportunities.
-- **Timezone**: UTC +0 (Always available for remote work and collaboration).
-- **Languages**: English (Fluent), Spanish (Intermediate)
-
----
-
-## 🚀 **My Contribution to Open Source**
-
-I am proud to contribute to several open-source projects, particularly in the web development and backend ecosystems. Here are some of my contributions:
-
-- **[Repo/Project Name](link-to-contribution)**: A brief overview of the contribution.
-
----
-
-### 💬 **Quote I Live By**
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
-
----
+With this **stylized README**, your GitHub profile will look professional and visually engaging while showcasing your skills, projects, and passions. You can replace the placeholders with actual links to your projects and repositories. Enjoy updating your profile!
 
 
