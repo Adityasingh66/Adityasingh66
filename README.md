@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="abc%20(1).gif" width="100%" height="350px" style="object-fit:cover; border-radius: 10px;" />
+  <img src="abc%20(1).gif" width="100%" height="400px" style="object-fit:cover; border-radius: 10px;" />
 </p>
 
-# <p align="center" style="color:red;">Hi there, I'm <strong>Aditya Kumar Singh</strong>! 👋</p>
+# <p align="center"><strong><span style="color:red;">Hi there, I'm Aditya Kumar Singh! 👋</span></strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0D6EFD&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Building+Scalable+Applications" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Code-Create-Innovate-F7B93E?style=for-the-badge" />
 </p>
 
-I am a passionate **Full Stack Developer** skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices.
+I am a passionate **<span style="color:#0D6EFD;">Full Stack Developer</span>** skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices.
 
 ---
 
@@ -47,7 +47,7 @@ I am a passionate **Full Stack Developer** skilled in both frontend and backend 
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaKumarSingh&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumarSingh&theme=github&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumarSingh&theme=high-contrast&area=true&hide_border=true&point=000000" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=AdityaKumarSingh&theme=tokyonight&column=7" />
 </p>
@@ -68,8 +68,8 @@ I am a passionate **Full Stack Developer** skilled in both frontend and backend 
 </p>
 
 ---
-
 ### 💡 "Code, Create, Innovate!" 🚀
+
 
 
 
