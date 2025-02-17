@@ -1,7 +1,7 @@
 # <h1 align="center">Hi there! I'm a Full Stack Developer 🚀</h1>
 
 <p align="center">
-  <img src="abc.gif" alt="Animated GIF" width="600" />
+  <img src="abc.gif" alt="Animated GIF" width="900" />
 </p>
 
 ---
