@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="abc%20(1).gif" width="100%" height="250px" style="object-fit:cover; border-radius: 10px;" />
+  <img src="abc%20(1).gif" width="100%" height="350px" style="object-fit:cover; border-radius: 10px;" />
 </p>
 
 # <p align="center" style="color:red;">Hi there, I'm <strong>Aditya Kumar Singh</strong>! 👋</p>
