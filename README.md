@@ -3,7 +3,7 @@
 
 # 💥 **Aditya Kumar Singh** - Full Stack Engineer 🚀
 
-![Profile Photo](https://your-profile-image-url.com)  <!-- Replace with your profile image URL -->
+![Profile Photo](https://drive.google.com/file/d/1vAM8x05T1OBVtsue1YRX7Zi8MjD9KBKU/view?usp=drivesdk)  <!-- Replace with your profile image URL -->
 
 ## 👋 **Hello, World! I'm Aditya Kumar Singh** 👨‍💻
 
