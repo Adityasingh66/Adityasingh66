@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/aenq/aenq/blob/main/welcome-black-min.gif" alt="Welcome">
+
 # 💥 **Aditya Kumar Singh** - Full Stack Engineer 🚀
 
 ![Profile Photo](https://your-profile-image-url.com)  <!-- Replace with your profile image URL -->
