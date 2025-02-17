@@ -18,14 +18,12 @@
       <img src="profile.png" width="150px" style="border-radius: 50%; border: 3px solid #0D6EFD;" />
     </td>
     <td>
-      I am a passionate <strong><span style="color:red;">Full Stack Developer</span></strong> skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices.
+      I am a passionate <strong><span style="color:red;">Full Stack Developer</span></strong> skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices and Myself an enthusiastic, self-motivated, reliable, responsible and smart working person. I am a mature teamworker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.I am happy to solve new problems
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Create-Innovate-F7B93E?style=for-the-badge" />
-</p>
+
 
 ---
 
