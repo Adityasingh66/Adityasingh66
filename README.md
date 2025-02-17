@@ -1,4 +1,6 @@
-![Aditya Kumar Singh](abc%20(1).gif width="1000")
+<p align="center">
+  <img src="abc%20(1).gif" width="100%" />
+</p>
 
 # <p align="center">Hi there, I'm <strong>Aditya Kumar Singh</strong>! 👋</p>
 
@@ -37,13 +39,15 @@ I am a passionate **Full Stack Developer** skilled in both frontend and backend 
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity (2024)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumarSingh&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumarSingh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumarSingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarSingh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumarSingh&theme=tokyo-night" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaKumarSingh&theme=tokyonight" />
 </p>
 
 ---
@@ -64,6 +68,7 @@ I am a passionate **Full Stack Developer** skilled in both frontend and backend 
 ---
 
 ### 💡 "Code, Create, Innovate!" 🚀
+
 
 
 
