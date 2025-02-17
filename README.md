@@ -15,13 +15,16 @@
 <table>
   <tr>
     <td>
-      <img src="profile.png" width="250px" style="border-radius: 50%; border: 5px solid #0D6EFD;" />
+      <img src="profile.png" width="300px" style="border-radius: 50%; border: 6px solid #0D6EFD;" />
     </td>
     <td>
-      I am a passionate <strong><span style="color:red; font-size:20px;">FULL STACK DEVELOPER</span></strong> skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices. I am an enthusiastic, self-motivated, reliable, and hardworking individual. I excel in team environments and adapt well to challenging situations. I thrive under pressure and enjoy solving complex problems. 🚀
+      <p style="font-size: 18px;">
+        I am a passionate <strong><span style="color:red; font-size:24px;">FULL STACK DEVELOPER</span></strong> skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices. I am an enthusiastic, self-motivated, reliable, and hardworking individual. I excel in team environments and adapt well to challenging situations. I thrive under pressure and enjoy solving complex problems. 🚀
+      </p>
     </td>
   </tr>
 </table>
+
 
 
 ---
