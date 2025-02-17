@@ -18,7 +18,7 @@
       <img src="profile.png" width="180px" style="border-radius: 50%; border: 3px solid #0D6EFD;" />
     </td>
     <td>
-      <p align="center"><strong><span style="color:red; font-size:30px;">FULL + STACK + DEVELOPER</span></strong></p>
+      
 
 I am a passionate <strong><span style="color:red;">Full Stack Developer</span></strong> skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices. I am an enthusiastic, self-motivated, reliable, and hardworking individual. I excel in team environments and adapt well to challenging situations. I thrive under pressure and enjoy solving complex problems. 🚀
     </td>
