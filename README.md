@@ -1,68 +1,70 @@
-# <h1 align="center">Hi I am Aditya Kumar Singh! And I'm a Full Stack Developer 🚀</h1>
+![Aditya Kumar Singh](abc%20(1).gif)
+
+# <p align="center">Hi there, I'm <strong>Aditya Kumar Singh</strong>! 👋</p>
 
 <p align="center">
-  <img src="abc (1).gif" alt="Animated GIF" height="500" width="1200" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Building+Scalable+Applications" />
 </p>
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+## 🚀 About Me
 
 <p align="center">
-🔥 Passionate about building scalable web applications and cutting-edge technologies.<br>
-💻 Proficient in <strong>MERN Stack, Python/Django, and DevOps.</strong><br>
-🌍 Open to collaborations on interesting and innovative projects.<br>
-🎯 Currently improving my skills in <strong>Cloud Computing & AI Integrations.</strong>
+  <img src="https://img.shields.io/badge/Code-Create-Innovate-F7B93E?style=for-the-badge" />
+</p>
+
+I am a passionate **Full Stack Developer** skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
+
+### Tools & Other Technologies:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<table align="center">
-<tr>
-  <th>Frontend</th>
-  <th>Backend</th>
-  <th>Database</th>
-  <th>DevOps & Cloud</th>
-</tr>
-<tr>
-  <td>React.js, Next.js, Redux, Tailwind CSS, Bootstrap</td>
-  <td>Node.js, Express.js, Django, Flask</td>
-  <td>MongoDB, PostgreSQL, MySQL, Firebase</td>
-  <td>Docker, Kubernetes, AWS, CI/CD Pipelines</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🚀 Projects</h2>
-
-<h3 align="center">🔹 Project Name 1</h3>
+## 📈 GitHub Stats & Activity
 <p align="center">
-<strong>Description:</strong> A full-fledged eCommerce platform with authentication, payment integration, and real-time chat.<br>
-🔗 <a href="#">Live Demo</a> | 📂 <a href="#">Repository</a>
-</p>
-
-<h3 align="center">🔹 Project Name 2</h3>
-<p align="center">
-<strong>Description:</strong> AI-powered chatbot that integrates with various APIs to provide instant responses.<br>
-🔗 <a href="#">Live Demo</a> | 📂 <a href="#">Repository</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumarSingh&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumarSingh&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarSingh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
-
+## 📫 Connect With Me
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter" alt="Twitter"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-orange?logo=react" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/adityakumarsingh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AdityaKumarSingh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/AdityaKumarSingh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ If you like my work, give it a star! ⭐</h3>
+### 💡 "Code, Create, Innovate!" 🚀
+
 
 
 
