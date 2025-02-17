@@ -1,4 +1,4 @@
-![Aditya Kumar Singh](abc%20(1).gif)
+![Aditya Kumar Singh](abc%20(1).gif width="1000")
 
 # <p align="center">Hi there, I'm <strong>Aditya Kumar Singh</strong>! 👋</p>
 
