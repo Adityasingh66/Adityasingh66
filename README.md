@@ -5,7 +5,7 @@
 # <p align="center">Hi there, I'm <strong>Aditya Kumar Singh</strong>! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000E&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Building+Scalable+Applications" />
 </p>
 
 ---
