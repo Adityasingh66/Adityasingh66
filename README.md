@@ -2,7 +2,11 @@
   <img src="abc%20(1).gif" width="100%" height="400px" style="object-fit:cover; border-radius: 10px;" />
 </p>
 
-# <p align="center"><strong><span style="color:red;">Hi there, I'm Aditya Kumar Singh! 👋</span></strong></p>
+# <p align="center"><strong><span style="color:#FF0000;">Hi there, I'm Aditya Kumar Singh! 👋</span></strong></p>
+
+<p align="center">
+  <img src="profile.png" width="150px" style="border-radius: 50%; border: 3px solid #0D6EFD;" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0D6EFD&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Building+Scalable+Applications" />
@@ -69,6 +73,7 @@ I am a passionate **<span style="color:#0D6EFD;">Full Stack Developer</span>** s
 
 ---
 ### 💡 "Code, Create, Innovate!" 🚀
+
 
 
 
