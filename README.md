@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>
-      <img src="profile.png" width="300px" style="border-radius: 50%; border: 6px solid #0D6EFD;" />
+      <img src="profile.png" width="400px" style="border-radius: 50%; border: 6px solid #0D6EFD;" />
     </td>
     <td>
       <p style="font-size: 18px;">
