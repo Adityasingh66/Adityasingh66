@@ -1,7 +1,7 @@
 # <h1 align="center">Hi I am Aditya Kumar Singh! And I'm a Full Stack Developer 🚀</h1>
 
 <p align="center">
-  <img src="abc.gif" alt="Animated GIF" height="200" width="1000" />
+  <img src="abc.gif" alt="Animated GIF" height="500" width="1200" />
 </p>
 
 ---
