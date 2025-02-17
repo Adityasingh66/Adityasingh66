@@ -2,7 +2,7 @@
   <img src="abc%20(1).gif" width="100%" height="350px" style="object-fit:cover; border-radius: 10px;" />
 </p>
 
-# <p align="center"><strong><span style="color:red;">Hi there, I'm Aditya Kumar Singh! 👋</span></strong></p>
+# <p align="center"><strong><span style="color:red;">I'm Aditya Kumar Singh! 👋</span></strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=32&center=true&vCenter=true&width=1000&lines=🚀+FULL+STACK+DEVELOPER;💻+PASSIONATE+ABOUT+CODING;⚡+BUILDING+SCALABLE+APPLICATIONS" />
@@ -25,9 +25,6 @@ I am a passionate <strong><span style="color:red;">Full Stack Developer</span></
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Create-Innovate-F7B93E?style=for-the-badge" />
-</p>
 
 ---
 
@@ -67,10 +64,10 @@ I am a passionate <strong><span style="color:red;">Full Stack Developer</span></
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/adityakumarsingh/">
+  <a href="https://www.linkedin.com/in/aditya-kumar-singh-256370249/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AdityaKumarSingh">
+  <a href="https://github.com/Adityasingh66">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://twitter.com/AdityaKumarSingh">
