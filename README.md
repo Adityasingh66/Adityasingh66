@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="abc%20(1).gif" width="100%" height="250px" style="object-fit:cover; border-radius: 10px;" />
+  <img src="abc%20(1).gif" width="100%" height="400px" style="object-fit:cover; border-radius: 10px;" />
 </p>
 
 # <p align="center"><strong><span style="color:red;">Hi there, I'm Aditya Kumar Singh! 👋</span></strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0D6EFD&size=24&center=true&vCenter=true&width=600&lines=<span%20style='color:darkblue;'>Full%20Stack%20Developer</span>;Passionate+about+Coding;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Building+Scalable+Applications" />
 </p>
 
 ---
@@ -18,12 +18,14 @@
       <img src="profile.png" width="150px" style="border-radius: 50%; border: 3px solid #0D6EFD;" />
     </td>
     <td>
-      I am a passionate <strong><span style="color:darkblue;">Full Stack Developer</span></strong> skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices.
+      I am a passionate <strong><span style="color:red;">Full Stack Developer</span></strong> skilled in both frontend and backend technologies. I specialize in building scalable, high-performance web applications with modern frameworks and best practices.
     </td>
   </tr>
 </table>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Create-Innovate-F7B93E?style=for-the-badge" />
+</p>
 
 ---
 
@@ -80,6 +82,7 @@
 
 ---
 ### 💡 "Code, Create, Innovate!" 🚀
+
 
 
 
